@@ -11,7 +11,7 @@ sum_of_odd_numbers = 0
 sum_of_even_number = 0
 sum_of_all_numbers = 0
 
-# for loop to iterate till the given number
+# for loop to iterate till the given number.
 for i in range(max_number + 1):
 
     # identify even number
