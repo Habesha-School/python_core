@@ -28,7 +28,7 @@ for i in range(max_number + 1):
 
 # print sum of odd and even numbers up to the given number
 print("*"*30)
-print("Sum of even numbers up to "+str(max_number)+" is " + str(sum_of_even_number))
+print("Sum of even numbers up to {} is {}".format(max_number, sum_of_even_number))
 print("Sum of odd numbers up to {} is {}".format(max_number, sum_of_odd_numbers))
 print("sum of numbers up to {} is {}".format(max_number, sum_of_all_numbers))
 
