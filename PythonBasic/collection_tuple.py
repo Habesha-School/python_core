@@ -1,5 +1,5 @@
 
-"""" touple is a non immutable ( not modifiable) collection """
+"""" tuple is a non immutable ( not modifiable) collection """
 
 student_names = ("Jay", "Eshetie", "Jyanti", "Hareg",
                  "hiber", "Amsalu", "tigistu", "Amsalu")
