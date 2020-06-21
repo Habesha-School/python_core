@@ -1,4 +1,4 @@
-student_names = ["Jay", "Eshetie", "Jyanti", "Hareg", "hiber", "Amsalu", "tigistu"]
+student_names = ["Jay", "Eshetie", "Jyanti", "Hareg", "hiber", "Amsalu", "tigistu", "Goshu"]
 print(student_names)
 # if you get data from the databse
 # if you get data from studnets
