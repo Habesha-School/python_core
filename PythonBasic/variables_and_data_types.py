@@ -1,7 +1,7 @@
 """  This program is to learn about pyton
 variables
 data types ( string, int float, boolean)
-and string concatination using a + and format method
+and string connection using a + and format method
 """
 
 # you don't need to add ; to the end of python statements
