@@ -5,7 +5,7 @@ import pandas
 # include the Excel file extension
 # #place "r" before the path string to address special character, such as '\'
 excel_data_df = pandas.read_excel(r'C:\Users\eshet\OneDrive\Desktop\Database export file\ecommerce5.xlsx', sheet_name='sheet1')
-
+a = excel_data_df.keys()
 
 # print sheet data from the excel
 print(excel_data_df)
